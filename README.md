@@ -6,6 +6,8 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](#)
 [![Status: Genesis](https://img.shields.io/badge/Status-Genesis-green.svg)](#)
 
+![Nega-City Manifesto Hero](./assets/manifesto-hero.png)
+
 *Read this document in other languages: [English](README.md) | [日本語 (Japanese)](README_ja.md)*
 
 ---
