@@ -1,7 +1,15 @@
-# Nega-City Protocol ️
+# Nega-City Protocol
 
 **Reclaiming the Geographic Frontier & Deploying a Decentralized Physical Network State**
-Ω
+
+[![Version](https://img.shields.io/badge/version-4.2-blue.svg)](#)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](#)
+[![Status: Genesis](https://img.shields.io/badge/Status-Genesis-green.svg)](#)
+
+![Nega-City Manifesto Hero](assets/manifesto-hero.png)
+
+---
+
 ## 0. Preamble: Manifesto of Inversion
 
 The current socio-economic system of the West and its megacities has reached a structural limit. As historical demographer Emmanuel Todd suggests in his macro-analysis, the shift from physical manufacturing to a purely digital and hyper-financialized economy has stripped individuals of their tangible connection to reality. This loss of physical agency has bred profound nihilism. It manifests globally as extreme social atomization and a pervasive crisis of meaning—reaching its most fatal extreme in the US as "deaths of despair" (as originally argued by Case & Deaton).
@@ -14,7 +22,7 @@ Some massive capitals seek this redundancy and a "blank canvas" in outer space. 
 
 Nega-City is not a mere passive escape from existing systems—a simple "Walkaway" to the fringes of society, as depicted by sci-fi author Cory Doctorow. It is a highly proactive, decentralized urban network that inverts the centralized SPOF of late-stage capitalism, utilizing historically abandoned depopulated areas on Earth to deploy a distributed network and create a viable alternative society.
 
-How, then, do we Ωinvert the pathologies of physical space? To economically break free from the exploitative structures of the megacity, one must, as economist Joseph Schumpeter pointed out, "become an innovator through new combinations (*neue Kombination*) and rewrite the existing market rules." In this context, Nega-City is designed as a low-cost, high-density space for intellectual activity—designed to help indωividuals transition from mere consumers drained of their capital back into autonomous producers (builders).
+How, then, do we invert the pathologies of physical space? To economically break free from the exploitative structures of the megacity, one must, as economist Joseph Schumpeter pointed out, "become an innovator through new combinations (*neue Kombination*) and rewrite the existing market rules." In this context, Nega-City is designed as a low-cost, high-density space for intellectual activity—designed to help individuals transition from mere consumers drained of their capital back into autonomous producers (builders).
 
 How do we invert the pathologies of cyberspace? Nega-City acts not merely as a "place," but as an urban architecture that reclaims individual cognitive sovereignty by integrating the internally developed system *Deep-Signal Radar* as its core protocol.
 
