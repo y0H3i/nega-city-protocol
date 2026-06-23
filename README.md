@@ -2,7 +2,7 @@
 
 **Reclaiming the Geographic Frontier & Deploying a Decentralized Physical Network State**
 
-[![Version](https://img.shields.io/badge/version-4.3-blue.svg)](#)
+[![Version](https://img.shields.io/badge/version-4.4-blue.svg)](#)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](#)
 [![Status: Genesis](https://img.shields.io/badge/Status-Genesis-green.svg)](#)
 
