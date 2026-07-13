@@ -1,3 +1,7 @@
+<style>
+  .markdown-body h1:first-of-type { display: none; }
+</style>
+
 # Nega-City Protocol ️
 
 **Reclaiming the Geographic Frontier & Deploying a Decentralized Physical Network State**
